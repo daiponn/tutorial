@@ -1,7 +1,9 @@
 サルでもわかるGitコマンド
-add 変更をインデックスに登録する
+アイウエオ
 commit インデックスの状態を記録する
 pull リモートリポジトリの内容を取得する
 TEST
 test3
 test2
+pullrequest test
+あ
