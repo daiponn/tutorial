@@ -5,3 +5,4 @@ pull リモートリポジトリの内容を取得する
 TEST
 test3
 test2
+pullrequest test
